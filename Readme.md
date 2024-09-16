@@ -6,6 +6,12 @@ This project involves an in-depth analysis of a music dataset, focusing on vario
 
 The goal is to uncover trends, patterns, and relationships between different music features and metrics such as streams. Various visualizations were created to make the insights easier to interpret.
 
+## Reference Image 
+
+![Reference Image](reference_image.png)
+
+
+
 ## Features of the Project 
 
 - **Data Cleaning**: Processed the dataset to remove unnecessary columns, handle missing values, and resolve duplicates. Performed transformations such as converting numeric months into month names and converting string values to integers.
@@ -35,3 +41,4 @@ The goal is to uncover trends, patterns, and relationships between different mus
 3. **Artist Count Distribution**: A pie chart showing the proportion of tracks involving solo artists, duos, and groups.
 4. **Scatter Plot**: Streams vs. energy to examine the correlation.
 5. **Correlation Heatmap**: Exploring the relationships between audio features such as danceability, valence, and instrumentalness.
+
